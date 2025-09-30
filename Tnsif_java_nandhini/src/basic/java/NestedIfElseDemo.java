@@ -9,7 +9,7 @@ public class NestedIfElseDemo {
 				System.out.println(a);
 			}else {
 				System.out.println(c);
-		} else {
+		}} else {
 			if (c > b) {
 				System.out.println(c);}
 			else {
@@ -17,5 +17,6 @@ public class NestedIfElseDemo {
 		}
 
 	}
+}
 }
  
